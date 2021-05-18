@@ -1,4 +1,4 @@
-name: Qv2ray build matrix - cmake
+name: Qv2ray build matrix - cmake-
 
 on:
   push:
